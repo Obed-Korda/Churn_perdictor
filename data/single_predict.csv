@@ -1,0 +1,6 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,AvgMonthlyCharges,MonthlyChargesToTotalChargesRatio,PredictionTime,ModelUsed,Prediction,Predicted Churn,Probability
+7795-CFOCW,Male,No,Yes,No,0.0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,1.0,1.0,Inf,1.0,2024-09-01,Random Forest,No,No Churn,61.85
+0000 DUMMY,Male,No,Yes,No,0.0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,1.0,1.0,Inf,1.0,2024-09-01,,No,No Churn,61.85
+0001 - DUMMY,Male,No,Yes,No,0.0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,1.0,1.0,Inf,1.0,2024-09-01,Random Forest,No,No Churn,61.85
+0002-DUMMY,Male,No,Yes,No,0.0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,1.0,1.0,Inf,1.0,2024-09-01,Random Forest,No,No Churn,61.85
+,Male,No,Yes,No,0.0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,1.0,1.0,Inf,1.0,2024-09-02,Random Forest,No,No Churn,61.85
